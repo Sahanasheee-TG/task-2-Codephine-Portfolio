@@ -1,0 +1,47 @@
+body{
+    background-color: lightblue;
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+}
+.logo{
+    color: red;
+    font-size: x-large;
+    position: absolute;
+    margin-top: 40px;
+    margin-left:8%;
+    
+}
+.navbar{
+    color: blue;
+    margin-top: 80px;
+    margin-left: 65%;
+    position: absolute;
+    font-size: x-large;
+}
+.logo1{
+    color: blueviolet;
+    font-size: x-small;
+    position: absolute;
+    margin-top: 10%;
+    margin-left:11%;
+    
+}
+.logo2{
+    color: orchid;
+    font-size: x-small;
+    position: absolute;
+    margin-top: 12%;
+    margin-left:12%;
+ }
+ .h1 img {
+    width: 100%;
+    height: 100hv;
+    position: absolute;
+}
+
+ 
+
+
+
+
